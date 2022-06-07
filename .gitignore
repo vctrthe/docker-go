@@ -1,0 +1,7 @@
+*.sqlite
+*.idea/*
+*.idea
+*.idea/.*
+.DS_Store
+*.log
+.env
