@@ -11,6 +11,7 @@ All credits belongs to the [owner](https://levelup.gitconnected.com/crud-restful
 ## Project Information
 
 First, please save ``.env.example`` as ``.env``
+Then, decide if you want to use ``PostgreSQL`` or ``MySQL``
 
 ## How to use
 
